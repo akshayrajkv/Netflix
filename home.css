@@ -1,0 +1,108 @@
+nav img {
+    width: 23%;
+}
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url(./assets/the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-fullview.jpg);
+    background-size: cover;
+    background-position: 50%;
+    height: 110vh;
+    border-bottom: 5px solid rgb(172, 44, 44);
+}
+body{
+    background-color: black;
+}
+#a2 {
+    border-radius: 5px;
+    border: 10px 18px;
+    border-color: aliceblue;
+    color: rgb(234, 238, 241);
+    background-color: rgba(0, 0, 0, 0);
+}
+#a3 {
+    position: relative;
+    top: 20%;
+}
+.d22{
+    font-size: 400%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#a5 {
+    position: relative;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: aliceblue;
+    height: 37px;
+    color: rgb(254, 255, 255);
+    background-color: rgba(0, 0, 0, 0.795);
+    top: 7px;
+}
+#a4 {
+    background-color: red;
+    color: aliceblue;
+    position: relative;
+    top: -2.5px;
+}
+
+#m1 {
+    background-color: red;
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#c2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+#c3 {
+    position: relative;
+    width: 234px;
+    left: -10%;
+    border-radius: 30px;
+}
+footer {
+    background-color: black;
+    background-size: cover;
+    background-position: 50%;
+    height: 300vh;
+}
+#d1 {
+    padding: 5px 7px;
+}
+#d2 {
+    padding: 5px 7px;
+}
+#d3 {
+    background-color: black;
+}
+#b33{
+    background-image:url(./assets/bg3.jpg);
+    /* border-radius: 30px; */
+    color: aliceblue;
+    background-size: cover;
+}
+#b34{   
+    background-image:url(./assets/bg3.jpg);
+    /* border-radius: 30px; */
+    color: aliceblue;
+    background-size: cover;
+} 
+#b35{
+    background-image:url(./assets/bg3.jpg);
+    /* border-radius: 30px; */
+    color: aliceblue;
+    background-size: cover;
+} 
+#b36{
+    background-image:url(./assets/bg3.jpg);
+    color: aliceblue;
+    background-size: cover;
+}
+#carouselExampleControlsNoTouching img:hover{
+    transform: scale(110%);
+}
+#carouselExampleControlsNoTouching img{
+    border-radius: 20px;
+}
+#sf{
+    top: 173px;
+}
